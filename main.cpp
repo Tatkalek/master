@@ -8,5 +8,6 @@ int main()
 	cout <<"¬ведите двухзначное целое число: "<< endl;
 	cin >> a;
 	cin >> b;
+	cout <<"—умма: "<<a+b<< endl;
 	return 0;
 }
