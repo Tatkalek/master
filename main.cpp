@@ -9,5 +9,6 @@ int main()
 	cin >> a;
 	cin >> b;
 	cout <<"Сумма: "<<a+b<< endl;
+	cout <<"Вычитание: "<<a-b<< endl;
 	return 0;
 }
